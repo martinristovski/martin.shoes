@@ -5,8 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			// title: 'lastlore.com',
-			title: 'website_name',
+			title: 'WeltedWiki.com',
 			// logo: '../src/assets/logo.svg',
 			social: {
 				discord: 'https://www.stitchdown.com/join-stitchdown-premium/',

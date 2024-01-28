@@ -45,7 +45,7 @@ All of the photographs below are from Onderhoud's Instagram page[^1].
   <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_8.png) -->
   
 
-### SBC01 - 6-8" cap toe lace up boot with 2 piece backstay where the heel counter overlaps the bottom of the quarter stitch (like Viberg bobcats)
+### SBC01 - 6-8" cap toe lace up boot with 2 piece backstay where the heel counter overlaps the bottom of the quarter stitch
   
   <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_9.png)
   

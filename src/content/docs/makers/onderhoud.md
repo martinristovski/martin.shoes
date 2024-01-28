@@ -18,6 +18,8 @@ The Vulture is Onderhoud's sleekest last. It has a narrow heel which opens up to
 
 ## Patterns
 
+All of the photographs below are from Onderhoud's Instagram page[^1].
+
 ### SVC01 - boondocker (plain toe service boot with 4 row quarter stitch)
   
   <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud.png)
@@ -137,3 +139,5 @@ The Vulture is Onderhoud's sleekest last. It has a narrow heel which opens up to
   ![Untitled](../../../assets/makers/onderhoud/onderhoud_40.png) -->
   
   ![Untitled](../../../assets/makers/onderhoud/onderhoud_41.png)
+
+[^1]: [https://www.instagram.com/onderhoud.handmade](https://www.instagram.com/onderhoud.handmade)

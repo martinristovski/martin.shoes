@@ -8,7 +8,6 @@ export default defineConfig({
 			title: 'WeltedWiki.com',
 			// logo: '../src/assets/logo.svg',
 			social: {
-				discord: 'https://www.stitchdown.com/join-stitchdown-premium/',
 			},
 			sidebar: [
 				{

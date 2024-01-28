@@ -5,13 +5,11 @@ description: List of shoemakers.
 
 ## In Progress
 - [ ] Alden
-- [ ] Ostmo
 - [ ] Viberg
 
 ## No Info
 
 - [ ] Addict
-- [ ] AE McAteer
 - [ ] Allen Edmonds
 - [ ] Arno Shoes
 - [ ] Astorflex
@@ -108,6 +106,7 @@ description: List of shoemakers.
 
 - [x] Grant Stone
 - [x] Onderhoud
+- [x] Ostmo
 
 
 # People

@@ -21,123 +21,48 @@ The Vulture is Onderhoud's sleekest last. It has a narrow heel which opens up to
 All of the photographs below are from Onderhoud's Instagram page[^1].
 
 ### SVC01 - boondocker (plain toe service boot with 4 row quarter stitch)
-  
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_1.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_2.png) -->
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_3.png)
+  ![Onderhoud SVC01](../../../assets/makers/onderhoud/onderhoud_svc01.png)
   
 ### SVC02 - packer boot (8" plain toe lace up boot with 2 piece backstay)
-  
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_4.png) -->
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_5.png)
-  
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_6.png) -->
+  ![Onderhoud SVC02](../../../assets/makers/onderhoud/onderhoud_svc02.png)
   
 ### SVC03 - cap toe service boot
+  ![Onderhoud SVC03](../../../assets/makers/onderhoud/onderhoud_svc03.png)
   
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_7.png)
-  
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_8.png) -->
-  
-
 ### SBC01 - 6-8" cap toe lace up boot with 2 piece backstay where the heel counter overlaps the bottom of the quarter stitch
+  ![Onderhoud SBC01](../../../assets/makers/onderhoud/onderhoud_sbc01.png)
   
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_9.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_10.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_11.png) -->
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_12.png)
-  
-
 ### SPL01 - NST boot
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_13.png)
-  
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_14.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_15.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_16.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_17.png) -->
-  
+  ![Onderhoud SPL01](../../../assets/makers/onderhoud/onderhoud_spl01.png)
+
 ### SPL02 - dressier derby boot
-  
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_18.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_19.png) -->
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_20.png)
-  
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_21.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_22.png) -->
-  
+  ![Onderhoud SPL02](../../../assets/makers/onderhoud/onderhoud_spl02.png)
 
 ### LVL01 - derby shoe with external heel counter
 #### Plain Toe, Vulture
-      
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_23.png) -->
-      
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_24.png)
-      
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_25.png) -->
+  ![Onderhoud LVL01 Vulture](../../../assets/makers/onderhoud/onderhoud_lvl01_vulture.png)
       
 #### Cap Toe, Buteo X
-      
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_26.png)
-      
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_27.png)
-      
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_28.png) -->
+  ![Onderhoud LVL01 Buteo X](../../../assets/makers/onderhoud/onderhoud_lvl01_buteox.png)
       
 ### LCB01 - derby shoe with external heel counter, where the heel counter overlaps the bottom of the quarter stitch
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_29.png)
-  
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_30.png) -->
-  
+  ![Onderhoud LCB01](../../../assets/makers/onderhoud/onderhoud_lcb01.png)
 
 ### LCV01 - 6-8" lace to toe, or LTT shoe
 1st Onderhoud x Stitchdown Collab: [https://www.stitchdown.com/brands/onderhoud/onderhoud-stitchdown-lcv01-lineman-boot/](https://www.stitchdown.com/brands/onderhoud/onderhoud-stitchdown-lcv01-lineman-boot/)
 
 #### Low Cut
-      
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_31.png)
-      
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_32.png) -->
+  ![Onderhoud LCV01 Shoe](../../../assets/makers/onderhoud/onderhoud_lcv01_shoe.png)
       
 #### Boot
-      
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_33.png)
-      
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_34.png)
-      
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_35.png) -->
+  ![Onderhoud LCV01 Boot](../../../assets/makers/onderhoud/onderhoud_lcv01_boot.png)
       
 ### LCV02 - monkey boot
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_36.png)
-  
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_37.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_38.png) -->
-  
+  ![Onderhoud LCV02](../../../assets/makers/onderhoud/onderhoud_lcv02.png)
 
-### MC01 - moc toe boot (like the recent stitchdown collab)
+### MC01 - moc toe boot
 2nd Onderhoud x Stitchdown Collab: [https://www.stitchdown.com/brands/onderhoud/stitchdown-x-onderhoud-moc-toe-wickett-craig-harness/](https://www.stitchdown.com/brands/onderhoud/stitchdown-x-onderhoud-moc-toe-wickett-craig-harness/)
   
-  <!-- ![Untitled](../../../assets/makers/onderhoud/onderhoud_39.png)
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_40.png) -->
-  
-  ![Untitled](../../../assets/makers/onderhoud/onderhoud_41.png)
+  ![Onderhoud MC01](../../../assets/makers/onderhoud/onderhoud_mc01.png)
 
 [^1]: [https://www.instagram.com/onderhoud.handmade](https://www.instagram.com/onderhoud.handmade)

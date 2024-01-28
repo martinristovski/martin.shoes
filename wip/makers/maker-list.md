@@ -5,7 +5,6 @@ description: List of shoemakers.
 
 ## In Progress
 - [ ] Alden
-- [ ] Onderhoud
 - [ ] Ostmo
 - [ ] Viberg
 
@@ -27,12 +26,13 @@ description: List of shoemakers.
 - [ ] Carmina
 - [ ] Caswell
 - [ ] Cheaney
+- [ ] Christian Daniel Boots
 - [ ] Clinch (Brass Tokyo)
 - [ ] Corthay
 - [ ] Crockett & Jones
 - [ ] Crown Northampton
 - [ ] Danner
-- [ ] Dr Sole
+- [ ] Dr Sole Pioneer
 - [ ] Drake's
 - [ ] Easymoc
 - [ ] Edward Green
@@ -63,7 +63,7 @@ description: List of shoemakers.
 - [ ] Nettleton (Vintage)
 - [ ] NF Bootmaker
 - [ ] New River Boot
-- [ ] Nick's
+- [ ] Nicks
 - [ ] Norman Vilalta
 - [ ] Oak Street Bootmakers
 - [ ] Ol' Shanks (Brass Tokyo)
@@ -107,3 +107,13 @@ description: List of shoemakers.
 ## Done
 
 - [x] Grant Stone
+- [x] Onderhoud
+
+
+# People
+
+## @incorrectpath
+Alden Barrie, whites 55, Viberg 2030, about to have nicks HNW, Crockett 325  
+May have in near future Alden Leydon, and Viberg 1035  
+All Viberg is newer  
+

@@ -23,13 +23,11 @@ The 1035 has a wide heel relative to Viberg's other lasts, and a wide toebox, ha
 <!-- ## 2010 -->
 
 ## 2020
-The 2020 is a relatively anatomical, lower-volume last, with a narrow heel and waist, a more sculpted arch, and an outward swing that results in more room on the medial side of the toebox and less room on the lateral side. It has historically only been available in a Viberg D width, but recently has been available in an E width as well. It has been used on service boots, derby boots, derby shoes, rockland bluchers, halketts, and bastion oxfords. We recommend going half down from Brannock on this last. If you are a Brannock E width, or a higher volume D width, you may need to look for the E width version of this last. We do not recommend this last for people wider than a Brannock E width. 
+The 2020 is a relatively anatomical, lower-volume last, with a narrow heel and waist, a more sculpted arch, and an outward swing that results in more room on the medial side of the toebox and less room on the lateral side. It has historically only been available in a Viberg D width, but recently has been available in an E width as well. It has been used on service boots, derby boots, derby shoes, rockland bluchers, halketts, and bastion oxfords. We recommend going half down from Brannock on this last. If you are a higher volume D width, you may need to look for the E width version of this last, which is only available on a small number of makeups starting in late 2023. We do not recommend this last for people with feet wider than a Brannock D width. 
 
-<!-- ## 2030
-
-### Old 2030
-
-### New 2030 -->
+## 2030
+The 2030 is Viberg's most popular last. It is also the last that has undergone the most changes over the years. What all versions of the 2030 have in common, is that they are a fairly straight, almond shaped last. We recommend going half down from Brannock on all versions of 2030. Generally, older versions of the last will have less volume than newer versions, especially in the toebox. Newer iterations are available in the standard Viberg E width, as well as D and EE on some makeups. 
+<!-- For a more detailed breakdown, please see the [Metamorphosis of the 2030 Service Boot](#metamorphosis-of-the-2030-service-boot) section below. -->
 
 ## 2040
 The 2040 is a Munson-inspired last with a narrow heel and waist, and a wide toebox which is flat on the medial side. It has a lower instep than Viberg's other service boot lasts, and only comes in a Viberg E width. We recommend going half down from Brannock. The lower instep can make it difficult to fit if you have a high instep or generally higher-volume feet. In such cases, the 2045 and 2055 would offer a similar Munson-inspired design with more room all around.
@@ -57,3 +55,9 @@ The 310 is a sprung toe last with a voluminous, boxy toe with raised sidewalls. 
 
 
 <!-- ## Metamorphosis of the 2030 Service Boot -->
+
+<!--
+### Old 2030
+
+### New 2030
+-->

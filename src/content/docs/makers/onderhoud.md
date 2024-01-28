@@ -5,30 +5,20 @@ description: Onderhoud lasts and sizing.
 
 ## Lasts
 
-### Vulture
-
-I’m happy with half down, but if you have HTT=HTB, or toe splay or something, go TTS.
-
-### Buteo X
 
 ### Buteo
+The Buteo is a high volume round toe last most commonly seen on the LCV01 lace to toe boot. We recommend going half down from your true European size. I.e. if you are an 8D on the Branock, go with a 40.5. If you are a 10.5D on the Brannock, go with a 43.
+
+### Buteo X
+The Buteo X is an evolution of the originial Buteo last, with the most significant change being a reduction in the volume of the toebox. We recommend going half down from your true European size. I.e. if you are a 7.5D on the Branock, go with a 40. If you are a 9D on the Brannock, go with a 41.5.
+
+### Vulture
+
+The Vulture is Onderhoud's sleekest last. It has a narrow heel which opens up to a wider ball, and a tapered round toe. We recommend going with your true European size that corresponds to your Brannock size. I.e. if you are an 8D on the Brannock, go with a 41. If you are a 10.5D on the Brannock, go with a 43.5. 
 
 ## Patterns
 
 ### SVC01 - boondocker (plain toe service boot with 4 row quarter stitch)
-  
-  [https://www.instagram.com/p/CoP32iKvigR/?img_index=1](https://www.instagram.com/p/CoP32iKvigR/?img_index=1)
-  
-  The pair shown below is:
-  
-  Vulture last
-  Brown Horsebutt Strip Chromexcel from Horween
-  Single row, flat-welted
-  Light brown welt and edge finish
-  Natural outsole stitching
-  Unstructured Toe
-  Rawcord supergrip fullsole
-  Rawcord supergrip Heels
   
   ![Untitled](/src/assets/makers/onderhoud/onderhoud.png)
   

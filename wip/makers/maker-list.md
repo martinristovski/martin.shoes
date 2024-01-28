@@ -4,8 +4,10 @@ description: List of shoemakers.
 ---
 
 ## In Progress
-- [ ] Viberg
 - [ ] Alden
+- [ ] Onderhoud
+- [ ] Ostmo
+- [ ] Viberg
 
 ## No Info
 
@@ -65,8 +67,6 @@ description: List of shoemakers.
 - [ ] Norman Vilalta
 - [ ] Oak Street Bootmakers
 - [ ] Ol' Shanks (Brass Tokyo)
-- [ ] Onderhoud
-- [ ] Ostmo
 - [ ] Paraboot
 - [ ] Parkhurst
 - [ ] Quoddy

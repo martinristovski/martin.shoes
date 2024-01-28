@@ -29,6 +29,10 @@ The 2020 is a relatively anatomical, lower-volume last, with a narrow heel and w
 The 2030 is Viberg's most popular last. It is also the last that has undergone the most changes over the years. What all versions of the 2030 have in common, is that they are a fairly straight, almond shaped last. We recommend going half down from Brannock on all versions of 2030. Generally, older versions of the last will have less volume than newer versions, especially in the toebox. Newer iterations are available in the standard Viberg E width, as well as D and EE on some makeups. 
 <!-- For a more detailed breakdown, please see the [Metamorphosis of the 2030 Service Boot](#metamorphosis-of-the-2030-service-boot) section below. -->
 
+<!-- ## 2030S (Slipper) -->
+
+<!-- ## 2030CH (Chelsea) -->
+
 ## 2040
 The 2040 is a Munson-inspired last with a narrow heel and waist, and a wide toebox which is flat on the medial side. It has a lower instep than Viberg's other service boot lasts, and only comes in a Viberg E width. We recommend going half down from Brannock. The lower instep can make it difficult to fit if you have a high instep or generally higher-volume feet. In such cases, the 2045 and 2055 would offer a similar Munson-inspired design with more room all around.
 

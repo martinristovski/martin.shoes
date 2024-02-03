@@ -5,7 +5,9 @@ description: List of shoemakers.
 
 ## In Progress
 - [ ] Alden
+    - [ ] Lasts
 - [ ] Viberg
+    - [ ] Metamorphosis of 2030 (last, pattern, heel pad, etc.)
 
 ## No Info
 

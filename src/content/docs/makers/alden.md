@@ -3,21 +3,45 @@ title: Alden
 description: Alden sizing and lasts.
 ---
 
-<!-- ## Lasts
+## Lasts
+
+This list does not contain all of Alden's lasts, as some are quite rare or have been discontinued, but going with your Brannock size tends to be a safe choice for most of them. Below are the lasts that are most commonly seen today for which we know enough to offer sizing advice. This list may expand in the future.
 
 ### 379X
-### Aberdeen - narrowest
+The 379X last is the closest thing Alden has to a Munson-style last. It has a narrow heel, sculpted arch, and a wide, roomy toebox. People tend to be split between half down from Brannock and true to size, primarily as a function of how much volume their feet have. I recommend trying your Brannock size first if possible.
+
+### Aberdeen
+The Aberdeen last is Alden's narrowest last. It has a tapered almond toe and is seen on their dressier loafers, such as the tassel loafer and full strap penny loafer. I recommend going with your Brannock size.
+
 ### Barrie
+The Barrie last has a round toe and a more generous instep than most of Alden's lasts. It's used on a wide variety of dressy and casual lace-up patterns. I recommend going with your Brannock size, but if you have particularly low volume feet, you might want to go down a half size.
+
 ### Copley
-### Grant
+The Copley last has an almond toe shape and is most commonly seen on Alden's flex welt penny loafers. I recommend going with your Brannock size.
+
+<!-- ### Grant -->
+
 ### Hampton
-### Leydon
+The Hampton last is one of Alden's narrower lasts, but with a slightly taller toebox than, say, an Aberdeen or a Plaza. It's most commonly seen on oxfords, but boots have also been made on it. I recommend going with your Brannock size.
+
+<!-- ### Leydon -->
+
 ### Modified
-### Orleans
+The Modified last is an anatomical last with a high arch and snug waist. Shoes on Modified feature an extended heel counter, similar to that found on TruBalance shoes. The last has an outward swing, resulting in more room on the lateral side of the foot, and the straight edge on the lateral side makes for a roomy toebox.  Most people will want to go down a half size from their Brannock size.
+
+<!-- ### Orleans -->
+
 ### Plaza
-### Tremont
+The Plaza last has a chisel toe, setting it apart from the rest of Alden's lasts, and a low volume toebox. It's most commonly used for dressier patterns such as oxfords, but can also be seen on some loafers and boots. I recommend going with your Brannock size.
+
+<!-- ### Tremont -->
+
 ### TruBalance
-### Van -->
+The TruBalance last is one of Alden's most popular lasts. It has a wide ball and a narrow heel, and TruBalance shoes have an extended heel counter that runs farther along the side of the shoe than that on most other shoes. It's most commonly used for Indy boots, but a number of other casual patterns are made on it as well. The footbed is relatively flat, so it might not be the best choice for people who need a lot of arch support. Many people find that they need to go down a half size from their Brannock size, but if you don't have low volume feet, I recommend trying your Brannock size first if possible.
+
+### Van
+The Van last is a high volume round toe last with a raised sidewall, and is most commonly seen on Alden's Leisure Handsewn penny loafers. I recommend going half down from your Brannock size.
+
 
 
 <!-- Uncommon Lasts

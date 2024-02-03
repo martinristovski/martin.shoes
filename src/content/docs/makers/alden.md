@@ -55,7 +55,7 @@ All Alden shoes have an inscription on the medial side of the shoe that contains
 
 The format is as follows:
 
-Starting from the left, we have the length and width. The width on all Alden lasts is indicated separately for the heel and the ball, because their lasts are combination lasts. Since the difference between the two widths is always 2 (AAA/A, B/D, E/EE, etc.), we can essentially ignore the (narrower) heel width and just focus on the ball width.
+Starting from the left, we have the length and width. The width on all Alden lasts is indicated separately for the heel and the ball, because their lasts are combination lasts. Since the difference between the two widths is always 2 (AAA/A, B/D, C/E, etc.), we can essentially ignore the (narrower) heel width and just focus on the ball width.
 
 Moving on to the right, the top line indicates the run number. The first two characters indicate the year and month of production. The number is the final digit of the manufacturing year, and the letter is the month. So, for example, 3B could be February of 2023, 2013, 2003, etc. A small exception here is that the letter I is skipped, so the months are: A=January, B=February, C=March, D=April, E=May, F=June, G=July, H=August, J=September, K=October, L=November, M=December. The following two characters are numbers which indicate the order number that was submitted to the factory (e.g. by a retailer ordering a special makeup). The following three characters are the batch number. The final number on the top line, separated by a space, is the pair number, which matches between the left and right shoe.
 

@@ -63,7 +63,7 @@ The bottom line contains only the model code. Stock models and makeups older tha
 
 [R][1][2][34][XX]
 
-[R] is a letter indicating the region. 
+[R] is a letter indicating the region that the makeup is sold in. 
   - A = Asia with the exception of Japan
   - D = USA
   - G = Canada
@@ -98,3 +98,19 @@ A few other feature markers are known to have been used on model codes before 20
   - E = exposed eyelets
   - M = Eduard Meier makeups (a German retailer)
   - R = thin rubber sole
+
+So, putting it all together, we can get the following information from the picture above:
+ - The length is 8, the ball width is D, and the heel width is B.
+ - The shoe was produced in March of 2023, 2013, or 2003.
+ - The order number is 17.
+ - The batch number is 001, meaning that this is the first time this makeup has been produced.
+ - The pair number is 1, meaning that this is the first pair of 8 B/D shoes produced in this batch.
+ - The model code is D2943, which means:
+   - The shoe is sold in the USA
+   - The shoe was first introduced in 2022, since all prior years ending in 2 precede 2013 when the new model code schema was introduced. (This also tells us that the shoe was produced in 2023, narrowing down the options above.)
+   - The shoe is a moc toe, apron toe, norwegian split toe, or algonquin toe boot.
+   - This is the 43rd American moc toe, apron toe, norwegian split toe, or algonquin toe boot makeup introduced in 2022.
+
+Putting it all together, and matching it up against the actual makeup, we find that this is a pair of Indy boots, with all eyelets, on a double leather sole, with a handstitched apron toe, in papaya pegasus calf. This is a stockist makeup from LaRossa Shoe in Massachusetts.
+
+![Alden Indy Boots](../../../assets/makers/alden/alden-indy-boots-d2943.jpg)

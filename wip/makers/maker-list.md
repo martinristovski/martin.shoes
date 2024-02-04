@@ -6,9 +6,9 @@ description: List of shoemakers.
 ## In Progress
 - [ ] Clinch (Brass Tokyo)
 - [ ] Skoob
-    [x] M43 Boondockers
-    [ ] Engineers
-    [ ] Other
+    - [x] M43 Boondockers
+    - [ ] Engineers
+    - [ ] Other
 - [ ] Viberg
     - [x] Lasts
     - [ ] Metamorphosis of 2030 (last, pattern, heel pad, etc.)
@@ -20,7 +20,6 @@ description: List of shoemakers.
 ## No Info
 
 - [ ] Addict
-- [ ] Allen Edmonds
 - [ ] Astorflex
 - [ ] Attractions
 - [ ] Baudoin & Lange
@@ -28,32 +27,17 @@ description: List of shoemakers.
 - [ ] Blackstock & Weber
 - [ ] Briselblack
 - [ ] Brother Bridge
-- [ ] Carlos Santos
-- [ ] Carmina
 - [ ] Caswell
-- [ ] Cheaney
 - [ ] Christian Daniel Boots
-- [ ] Corthay
 - [ ] Crockett & Jones
 - [ ] Crown Northampton
-- [ ] Danner
 - [ ] Dr Sole Pioneer
-- [ ] Drake's
 - [ ] Easymoc
 - [ ] Edward Green
-- [ ] Enzo Bonafe
 - [ ] Feit
-- [ ] Flame Panda
-- [ ] Florsheim (Vintage)
 - [ ] Fracap
-- [ ] Frank's
-- [ ] Hanover (Vintage)
-- [ ] Heinrich Dinkelacker
-- [ ] Heschung
 - [ ] Iron Boots
 - [ ] Jack & White Bros
-- [ ] Jim Green
-- [ ] Joe Works
 - [ ] J.M. Weston
 - [ ] King's Boots
 - [ ] Kustom Kraft
@@ -63,16 +47,10 @@ description: List of shoemakers.
 - [ ] Meermin
 - [ ] Midas
 - [ ] MOTO
-- [ ] Myrqvist
-- [ ] Nettleton (Vintage)
 - [ ] NF Bootmaker
-- [ ] Norman Vilalta
-- [ ] Oak Street Bootmakers
 - [ ] Ol' Shanks (Brass Tokyo)
 - [ ] Paraboot
 - [ ] Parkhurst
-- [ ] Quoddy
-- [ ] R.M. Williams
 - [ ] Rancourt
 - [ ] Rider Boot Co.
 - [ ] Role Club
@@ -89,18 +67,12 @@ description: List of shoemakers.
 - [ ] Tricker's
 - [ ] Unmarked
 - [ ] Unsung
-- [ ] Vass
-- [ ] Visvim
 - [ ] Wesco
-- [ ] Wheel Robe
-- [ ] White Kloud
 - [ ] White's
 - [ ] Winson
 - [ ] W.M. Beijing
 - [ ] Y'2 Leather
-- [ ] Yanko
 - [ ] Yearn
-- [ ] Yuketen
 - [ ] Zerrows
 - [ ] Zonkey Boot
 
@@ -111,6 +83,7 @@ description: List of shoemakers.
 - [x] Onderhoud
 - [x] Ostmo
 - [x] Red Wing
+- [x] Wheel Robe
 
 
 # People

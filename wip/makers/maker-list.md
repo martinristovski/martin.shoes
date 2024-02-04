@@ -4,22 +4,28 @@ description: List of shoemakers.
 ---
 
 ## In Progress
-- [ ] Alden
-    - [ ] Lasts
+- [ ] Clinch (Brass Tokyo)
+- [ ] Skoob
+    [x] M43 Boondockers
+    [ ] Engineers
+    [ ] Other
 - [ ] Viberg
+    - [x] Lasts
     - [ ] Metamorphosis of 2030 (last, pattern, heel pad, etc.)
+
+- [ ] Explanation of how to take Brannock pictures
+- [ ] Explanation of how heel slip works
+- [ ] Explanation of what break-in is
 
 ## No Info
 
 - [ ] Addict
 - [ ] Allen Edmonds
-- [ ] Arno Shoes
 - [ ] Astorflex
 - [ ] Attractions
 - [ ] Baudoin & Lange
 - [ ] Belafonte (Brass Tokyo)
 - [ ] Blackstock & Weber
-- [ ] Brandle
 - [ ] Briselblack
 - [ ] Brother Bridge
 - [ ] Carlos Santos
@@ -27,7 +33,6 @@ description: List of shoemakers.
 - [ ] Caswell
 - [ ] Cheaney
 - [ ] Christian Daniel Boots
-- [ ] Clinch (Brass Tokyo)
 - [ ] Corthay
 - [ ] Crockett & Jones
 - [ ] Crown Northampton
@@ -45,7 +50,6 @@ description: List of shoemakers.
 - [ ] Hanover (Vintage)
 - [ ] Heinrich Dinkelacker
 - [ ] Heschung
-- [ ] Hiro Yanagimachi
 - [ ] Iron Boots
 - [ ] Jack & White Bros
 - [ ] Jim Green
@@ -62,8 +66,6 @@ description: List of shoemakers.
 - [ ] Myrqvist
 - [ ] Nettleton (Vintage)
 - [ ] NF Bootmaker
-- [ ] New River Boot
-- [ ] Nicks
 - [ ] Norman Vilalta
 - [ ] Oak Street Bootmakers
 - [ ] Ol' Shanks (Brass Tokyo)
@@ -72,13 +74,11 @@ description: List of shoemakers.
 - [ ] Quoddy
 - [ ] R.M. Williams
 - [ ] Rancourt
-- [ ] Red Wing
 - [ ] Rider Boot Co.
 - [ ] Role Club
 - [ ] Rolling Dub Trio
 - [ ] Russell Moccasin
 - [ ] Sagara
-- [ ] Skoob
 - [ ] Sherman Boot Works
 - [ ] The 2 Monkeys
 - [ ] The Armoury
@@ -106,9 +106,11 @@ description: List of shoemakers.
 
 ## Done
 
+- [x] Alden
 - [x] Grant Stone
 - [x] Onderhoud
 - [x] Ostmo
+- [x] Red Wing
 
 
 # People

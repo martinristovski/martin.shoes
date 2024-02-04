@@ -85,18 +85,18 @@ Moving on to the right, the top line indicates the run number. The first two cha
 
 The bottom line contains only the model code. Stock models and makeups older than 2013 maintain their existing model codes, which sometimes have some sense to them but oftentimes are inscrutable. Starting with stockist makeups in 2013, Alden introduced a new model code schema which is much more consistent. To the best of my ability to find information on the topic, the schema is defined as follows:
 
-[R][1][2][34][XX]
+\<R\>\<1\>\<2\>\<34\>\<XX\>
 
-[R] is a letter indicating the region that the makeup is sold in. 
+\<R\> is a letter indicating the region that the makeup is sold in. 
   - A = Asia with the exception of Japan
   - D = USA
   - G = Canada
   - M = Europe
   - N = Japan
 
-[1] is a number indicating the last digit of the year in which the makeup was first introduced.
+\<1\> is a number indicating the last digit of the year in which the makeup was first introduced.
 
-[2] is a number indicating the category of shoe.
+\<2\> is a number indicating the category of shoe.
   - 1 = tassel loafers and slip-ons
   - 2 = all other loafers
   - 3 = all oxfords
@@ -107,9 +107,9 @@ The bottom line contains only the model code. Stock models and makeups older tha
   - 8 = plain toe, cap toe, and wingtip boots
   - 9 = moc toe, apron toe, norwegian split toe, and algonquin toe boots
 
-[34] is the number of that particular makeup of that year and [1][2] category, incrementing by one in chronological order.
+\<34\> is the number of that particular makeup of that year and [1][2] category, incrementing by one in chronological order.
 
-[XX] is a zero to two letter code that indicates certain features of the makeup. The following codes are known as of early 2024:
+\<XX\> is a zero to two letter code that indicates certain features of the makeup. The following codes are known as of early 2024:
   - C = Alden commando half sole
   - D = Dainite sole
   - F = flex welt

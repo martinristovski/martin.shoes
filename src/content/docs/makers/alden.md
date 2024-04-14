@@ -114,6 +114,7 @@ The bottom line contains only the model code. Stock models and makeups older tha
   - D = Dainite sole
   - F = flex welt
   - H = speed hooks
+  - L = Leisure 3 sole
   - S = lug sole
   - U = unlined
   - Y = wider welt

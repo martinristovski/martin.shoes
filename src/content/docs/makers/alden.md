@@ -37,7 +37,7 @@ The Plaza last has a chisel toe, setting it apart from the rest of Alden's lasts
 <!-- ### Tremont -->
 
 ### TruBalance
-The TruBalance last is one of Alden's most popular lasts. It has a wide ball and a narrow heel, and TruBalance shoes have an extended heel counter that runs farther along the side of the shoe than that on most other shoes. It's most commonly used for Indy boots, but a number of other casual patterns are made on it as well. The footbed is relatively flat, so it might not be the best choice for people who need a lot of arch support. Many people find that they need to go down a half size from their Brannock size, and that is my general recommendation for most people, but if you have a taller instep, I recommend trying your Brannock size first if possible.
+The TruBalance last is one of Alden's most popular lasts. It has a wide ball and a narrow heel, and TruBalance shoes have an extended heel counter that runs farther along the side of the shoe than that on most other shoes. It's most commonly used for Indy boots, but a number of other casual patterns are made on it as well. The footbed is relatively flat, so it might not be the best choice for people who need a lot of arch support. I recommend everyone try their Brannock size first if possible. The last is not as voluminous as it appears, and if you don't have a particularly low instep, you will likely have a better experience going TTS instead of half down. For the lower-volume folks, half down tends to work best.
 
 ### Van
 The Van last is a high volume round toe last with a raised sidewall, and is most commonly seen on Alden's Leisure Handsewn penny loafers. I recommend going half down from your Brannock size.

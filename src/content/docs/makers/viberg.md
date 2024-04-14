@@ -13,7 +13,7 @@ The 1004 cantilever last is an anatomical, low-volume swing last with an asymmet
 <!-- ## 1005 -->
 
 ## 110
-The 110 is a round, high volume last that only comes in a Viberg EEE width. It's short past the ball, so people with HTT greater than or equal to their HTB or significant toe splay may run into issues. Recently, it has been most commonly found on the 145 Oxford pattern, but there have also been 146 Rigger lace to toe boots, 245 lace to toe oxfords, bobcats, chukkas, service boots, and boondockers. We recommend going half down from Brannock for this last, but in you are considering a 145 or 245 and have short toes and narrower heels, you may want to go a full size down.
+The 110 is a round, high volume last that only comes in a Viberg EEE width. It's short past the ball, so people with HTT greater than or equal to their HTB or significant toe splay may run into issues. Recently, it has been most commonly found on the 145 Oxford pattern, but there have also been 146 Rigger lace to toe boots, 245 lace to toe oxfords, bobcats, chukkas, service boots, and boondockers. We recommend going half down from Brannock for this last, but if you are considering a 145 or 245 and have short toes and narrower heels, you may want to go a full size down.
 
 <!-- ## 160 -->
 
@@ -26,7 +26,7 @@ The 1035 has a wide heel relative to Viberg's other lasts, and a wide toebox, ha
 The 2020 is a relatively anatomical, lower-volume last, with a narrow heel and waist, a more sculpted arch, and an outward swing that results in more room on the medial side of the toebox and less room on the lateral side. It has historically only been available in a Viberg D width, but recently has been available in an E width as well. It has been used on service boots, derby boots, derby shoes, rockland bluchers, halketts, and bastion oxfords. We recommend going half down from Brannock on this last. If you are a higher volume D width, you may need to look for the E width version of this last, which is only available on a small number of makeups starting in late 2023. We do not recommend this last for people with feet wider than a Brannock D width. 
 
 ## 2030
-The 2030 is Viberg's most popular last. It is also the last that has undergone the most changes over the years. What all versions of the 2030 have in common, is that they are a fairly straight, almond shaped last. We recommend going half down from Brannock on all versions of 2030. Generally, older versions of the last will have less volume than newer versions, especially in the toebox. Newer iterations are available in the standard Viberg E width, as well as D and EE on some makeups. 
+The 2030 is Viberg's most popular last. It is also the last that has undergone the most changes over the years. What all versions of the 2030 have in common, is that they are a fairly straight, almond shaped last, with newer versions having increasingly rounder toes. We recommend going half down from Brannock on all versions of 2030. Generally, older versions of the last will have less volume than newer versions, especially in the toebox. Newer iterations are available in the standard Viberg E width, as well as D and EE on some makeups. 
 <!-- For a more detailed breakdown, please see the [Metamorphosis of the 2030 Service Boot](#metamorphosis-of-the-2030-service-boot) section below. -->
 
 <!-- ## 2030S (Slipper) -->

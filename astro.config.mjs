@@ -23,6 +23,10 @@ export default defineConfig({
 							label: 'Brannock',
 							link: '/introduction/brannock/',
 						},
+						{
+							label: 'Heel Slip',
+							link: '/introduction/heel-slip/',
+						},
 					],
 				},
 				{

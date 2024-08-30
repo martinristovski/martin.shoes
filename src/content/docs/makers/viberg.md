@@ -37,7 +37,7 @@ The 2030 is Viberg's most popular last. It is also the last that has undergone t
 The 2040 is a Munson-inspired last with a narrow heel and waist, and a wide toebox which is flat on the medial side. It has a lower instep than Viberg's other service boot lasts, and only comes in a Viberg E width. We recommend going half down from Brannock. The lower instep can make it difficult to fit if you have a high instep or generally higher-volume feet. In such cases, the 2045 and 2055 would offer a similar Munson-inspired design with more room all around.
 
 ## 2045
-The 2045 is a Munson-inspired last, like the 2040 above, with a structured bump toe. It comes in a Viberg EE width. We recommend taking it half down from Brannock.
+The 2045 is a Munson-inspired last, like the 2040 above, with a structured bump toe. It was initially only availabel in a Viberg EE width, but an E width version first popped up in August 2024. We recommend taking it half down from Brannock.
 
 ## 2050
 The 2050 is a laterally narrow almond toe last with a high instep. It comes in a Viberg D width, and has been used on engineers and chelsea boots. We recommend going half down from Brannock, but you may want to go true to size if you see yourself needing the extra toe room. We do not recommend this last for people with a low instep.

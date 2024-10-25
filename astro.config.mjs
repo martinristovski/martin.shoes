@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://weltedwiki.com',
+	base: 'martin.shoes/',
 	integrations: [
 		starlight({
 			title: 'WeltedWiki.com',

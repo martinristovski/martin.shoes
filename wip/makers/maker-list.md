@@ -85,11 +85,3 @@ description: List of shoemakers.
 - [x] Red Wing
 - [x] Wheel Robe
 
-
-# People
-
-## @incorrectpath
-Alden Barrie, whites 55, Viberg 2030, about to have nicks HNW, Crockett 325  
-May have in near future Alden Leydon, and Viberg 1035  
-All Viberg is newer  
-

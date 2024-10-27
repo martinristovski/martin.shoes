@@ -14,7 +14,7 @@ description: List of shoemakers.
     - [ ] Metamorphosis of 2030 (last, pattern, heel pad, etc.)
 
 - [ ] Explanation of how to take Brannock pictures
-- [ ] Explanation of how heel slip works
+- [x] Explanation of how heel slip works
 - [ ] Explanation of what break-in is
 
 ## No Info
